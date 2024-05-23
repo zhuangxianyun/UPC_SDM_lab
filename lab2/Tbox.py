@@ -52,10 +52,6 @@ graph.add((LAB.Letter, RDF.type, RDFS.Class))
 graph.add((LAB.Letter, RDFS.subClassOf, LAB.Paper))
 graph.add((LAB.Letter, RDFS.label, Literal("Letter")))
 
-graph.add((LAB.paperRelatedTo, RDF.type, RDF.Property))
-graph.add((LAB.paperRelatedTo, RDFS.domain, LAB.Paper))
-graph.add((LAB.paperRelatedTo, RDFS.range, LAB.SubjectDomain))
-graph.add((LAB.paperRelatedTo, RDFS.label, Literal("paperRelatedTo")))
 
 # Adding some additional attributes for Paper Concept
 # 1) Title
