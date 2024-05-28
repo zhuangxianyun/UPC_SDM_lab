@@ -5,9 +5,11 @@ PREFIX lab: <http://SDM_LAB2.org/>
 SELECT ?authorName
 WHERE
 {
-    ?author rdf:type lab:Author .
-    ?author lab:authorName ?authorName .
-}limit10
+    ?author a lab:Author ;
+            lab:authorName ?authorName .
+} 
+LIMIT 10
+
 
 2.
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -17,13 +19,14 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 SELECT ?propertyName
 WHERE
 {
+    ?propertyName rdf:type rdf:Property .
     ?propertyName rdfs:domain lab:Author .
 }
 
 
 3.
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX lab: <http://SDM_LAB3.org/>
+PREFIX lab: <http://SDM_LAB2.org/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 SELECT ?propertyName
