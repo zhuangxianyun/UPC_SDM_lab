@@ -1,0 +1,386 @@
+journalId,journalUrl,journalTitle,journalVolumeIds
+jou0,458166b3-de17-4bf3-bbbb-e53782de2f0f,Nature Biotechnology,vol0
+jou1,759663ae-c1b4-41ef-9231-384ab473d4b4,Journal of Organizational and End User Computing,vol1
+jou2,0a96e67f-c1f1-491d-ab41-4c2c50b523a2,Genome Research,vol2
+jou3,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,vol3
+jou4,7a7dc89b-e1a6-44df-a496-46c330a87840,SN Computer Science,vol4
+jou5,41dbb273-8d18-4a45-8154-852882a37b34,Genome Biology,vol5
+jou6,d60da343-ab92-4310-b3d7-2c0860287a9d,Journal of Big Data,vol6
+jou7,099483df-e8f2-4bee-805d-8a69f07b6cbf,Nature Methods,vol7
+jou8,b3a217d4-f456-4394-9e5b-b39ab19d1b3e,Irish Journal of Medical Science,vol8
+jou9,f458795b-af97-4b7c-ba4e-d57bbb57f90a,Chemical Reviews,vol9
+jou10,c2a5f1b5-0985-40d1-a768-3a736af75f5e,Journal of Surgical Oncology,vol10
+jou11,4d9ce1c4-dc84-46b9-903e-e3751c00c7dd,Communications of the ACM,vol11
+jou12,c3875580-2cce-4a95-a094-fff60bb381b9,International Journal of Data Science and Analysis,vol12
+jou13,3c27e831-750f-45bc-9914-2148a5259eba,IEEE Transactions on Artificial Intelligence,vol13
+jou14,6fff9d04-a29e-4e37-87e8-27e06da9055c,Journal on spesial topics in mobile networks and applications,vol14
+jou15,79af09a2-54e8-4f97-8edf-9fba208ab744,International Journal of Digital Earth,vol15
+jou16,4d899b46-b5c8-436e-8ce3-084673ea8905,Big Data & Society,vol16
+jou17,1f6f3f05-6a23-42f0-8d31-98ab8089c1f2,IEEE Transactions on Signal Processing,vol17
+jou18,62924b2a-8fb8-4b93-92c6-735516b49af0,Scientific Data,vol18
+jou19,7fac555d-41ef-410c-9c84-ed584a9cff7f,Journal of Geographical Systems,vol19
+jou20,961301b0-6f5a-44a6-9216-54b673cded78,Journal of Statistics and Data Science Education,vol20
+jou21,17bac89e-3dba-467a-b9d4-71e3baefb08b,Patterns,vol21
+jou22,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,vol22
+jou23,aa746a02-d187-42c2-bdf9-df6a5d4e648c,Computer/law journal,vol23
+jou24,27475f31-a1d2-401b-84ad-9b405c7609a8,Journal of Epidemiology and Community Health,vol24
+jou25,92d34d37-5c4b-4e11-b461-9041b7de4c2d,Philosophical Transactions of the Royal Society of London. Biological Sciences,vol25
+jou26,349a6ffc-3527-4d3d-aef4-8372fbc1a084,Engineering,vol26
+jou27,09bb329a-45bc-4561-860f-c8ac0e958895,Ethics and Information Technology,vol27
+jou28,ee1b24c6-e4e7-4f90-af25-166a9eff8e3a,Small Business Economics,vol28
+jou29,c0ded351-0e49-473e-816e-23b84c9f8dd3,Frontiers in Environmental Science,vol29
+jou30,55511511-6974-4037-92a4-aec79ba003fe,Metabolomics,vol30
+jou31,3fe65a3e-606b-4377-8de1-b3f779646e1e,"Annual review of political science (Palo Alto, Calif. Print)",vol31
+jou32,d949c7f0-1213-4a16-a6ab-134862369b91,Journal of Library and Information Sciences,vol32
+jou33,2baad992-2268-4c38-9120-e453622f2eeb,Journal of Medical Internet Research,vol33
+jou34,bc30f894-9a9c-440e-8420-7bd3c5624384,The Journal of the Learning Sciences,vol34
+jou35,bf228014-e6ea-4397-96c9-3fd22beb2f75,British Journal of Educational Technology,vol35
+jou36,e4c9326f-17a0-48c8-85c6-2975945f4395,Journal of Biosciences,vol36
+jou37,93a7b6aa-3a96-4e75-a837-cbd3660e8a72,Geographical Analysis,vol37
+jou38,ed4bb98c-600b-477e-9e9a-653127045ec0,CHANCE : New Directions for Statistics and Computing,vol38
+jou39,70337d1b-fdf7-4fcb-b391-e096feba3748,BMC Medicine,vol39
+jou40,8b172637-3435-4dd3-a753-5035b814ff39,American Statistician,vol40
+jou41,5821d52f-e54a-4b02-981a-dd16fec9a115,TOP - An Official Journal of the Spanish Society of Statistics and Operations Research,vol41
+jou42,da1f558d-7744-4ce7-9b43-0a73f0057985,Journal of Library Administration,vol42
+jou43,75d7a8c1-d871-42db-a8e4-7cf5146fdb62,Social Science Research Network,vol43
+jou44,94cf7e5d-ed99-4849-b9b9-17ed670f5e6e,Journal of Social Computing,vol44
+jou45,fcbcaf18-8ab1-43e1-a973-604bbc7e344e,Proceedings of the VLDB Endowment,vol45
+jou46,9cf634df-e30b-4e2a-aeb7-84a126ce8861,Chest,vol46
+jou47,abe20b62-4958-4cfc-a05f-b87f4051f1a9,BioScience,vol47
+jou48,5619586e-de5a-4bc3-ac80-04dd8530d80c,Nature Biomedical Engineering,vol48
+jou49,7b2adce0-d53f-49d6-8784-b0645604fe62,ACM Computing Surveys,vol49
+jou50,329e28c6-84e0-4d75-a58e-ddac24c52d4e,International Journal of Population Data Science,vol50
+jou51,fbed5c1a-cebb-4bdd-8ca8-022b3bdd9cfb,Ethnicity & Disease,vol51
+jou52,4293c8e8-8cd7-4be6-b8b2-69f2b4fa3259,Computer Applications in Engineering Education,vol52
+jou53,789f162c-4b52-4f36-92f2-e19de5c8af8c,Data Science,vol53
+jou54,1ec361d9-6d57-4fd4-b0bd-c85044a7e1c3,"Science, Technology and Human Values",vol54
+jou55,b7e5a3b3-2519-4ca2-8870-c2b45ef76ab9,Nature Human Behaviour,vol55
+jou56,74527bdc-72cb-43a1-837d-5af4a24089b7,Environmental Modelling & Software,vol56
+jou57,bd7cf538-b981-449d-9e6c-64fa64047126,Philosophy & Technology,vol57
+jou58,7d2997cd-251d-4613-b0eb-d44a29a52df8,Journal of Data and Information Science,vol58
+jou59,6c24a0a0-b07d-4d7b-a19b-fd09a3ed453a,Nature,vol59
+jou60,510b2578-cf47-45c1-b866-c0402df7a780,Japanese Journal of Statistics and Data Science,vol60
+jou61,c9ec8f1c-d8e0-4555-b6ca-a068b79b1e40,Business & Information Systems Engineering,vol61
+jou62,0bf2c493-a93b-464a-b3d9-e18fbb4a7965,IEEE Computer Graphics and Applications,vol62
+jou63,83ff973b-8a0e-4e00-a06a-2cfd9e222de9,PLoS Biology,vol63
+jou64,b4ddf99b-89f6-42b4-8bbc-9bde693530cf,International Journal of Information Management,vol64
+jou65,93be7524-e38d-4d5a-b7f1-bb2b08b85275,Data Science Journal,vol65
+jou66,6b25cc59-3bb5-4b47-819e-d95ba292c4f7,Information systems research,vol66
+jou67,435bb11d-c0fe-4815-b98e-46c313be8ce7,Journal of Decision Systems,vol67
+jou68,e2742a49-1b55-4a31-b319-7455fa5e12d4,IEEE Transactions on Services Computing,vol68
+jou69,dd522c0a-e715-4d95-9ed7-e60346254ddf,Statistics and computing,vol69
+jou70,71b4e956-03b5-4545-ad85-567b2567ed26,Nursing Administration Quarterly,vol70
+jou71,7404efea-88b2-4c7c-8cb1-b3a8ced6363f,IEEE Intelligent Systems,vol71
+jou72,73bffa79-c19d-4df3-99ff-a2d01e3f89ae,Journal of Biomechanics,vol72
+jou73,c737deea-2a9a-4225-aa20-19a7d1c9c702,International Journal of System Dynamics Applications,vol73
+jou74,f3b9cfef-ea93-4f7f-a14f-95fbf796875e,IEEE Geoscience and Remote Sensing Magazine,vol74
+jou75,9ec189b3-db0f-41d8-9c82-21ef5fa9b87e,Frontiers in Genetics,vol75
+jou76,2a65d17a-afd8-466e-aff3-e0d0fbc84fb0,International Journal of Intelligent Computing and Cybernetics,vol76
+jou77,e3e1f91c-fe26-4f67-8d15-f7acd8abdf42,Future generations computer systems,vol77
+jou78,427d3401-f800-43c4-84ad-76e19faa88d0,College and Research Libraries,vol78
+jou79,93906da2-687f-4184-8437-40998086f409,Nature Reviews Methods Primers,vol79
+jou80,5bd34b7c-17b3-4080-96c2-50bd51fcab3a,Quantitative Science Studies,vol80
+jou81,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,vol81
+jou82,02b0e95f-1216-4dfe-b50d-fdb87b421ec8,EOS,vol82
+jou83,8bff20bd-db46-46fa-9cc1-85f4a48942a8,Women in Sport & Physical Activity Journal,vol83
+jou84,1a624d3a-7238-4368-b208-cdebb1e8ccc8,Nuclear Data Sheets,vol84
+jou85,28927fa0-8dca-4082-a7d0-abd989c8ef12,Advancement of science,vol85
+jou86,89854b22-3ed7-4225-a29b-3d9aca5f6b90,Psychological Science in the Public Interest,vol86
+jou87,8616055e-b299-48e3-8ef3-d3483786063a,Frontiers in Climate,vol87
+jou88,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,vol88
+jou89,7652ece8-fbd3-4050-b927-cf29d7f0eaa8,Astrophysical Journal,vol89
+jou90,7fb6a536-d19e-4526-8585-8be7b1943478,Science Education,vol90
+jou91,0535c107-9d95-4d92-8b39-d8eca506d035,Biological Conservation,vol91
+jou92,849d78f8-8160-4ca1-8cd8-84253f6abdf6,American Political Science Review,vol92
+jou93,e22bca8b-b989-4c40-9dbc-7b75f8a28673,Comprehensive Reviews in Food Science and Food Safety,vol93
+jou94,0ab10a19-5aec-4bd0-ba95-d98d85d33643,Ecology Letters,vol94
+jou95,341d8f49-2ea6-48ef-8053-c49cddebb1e1,MRS bulletin,vol95
+jou96,b81a92f9-b5d3-48b2-afb5-dacad73fa6d9,MRS Communications,vol96
+jou97,5cbedab5-cba8-430a-82af-b4d2a683e424,ICES Journal of Marine Science,vol97
+jou98,f3157ea6-5ef2-47eb-90ca-f81947c40906,Comptes rendus. Mecanique,vol98
+jou99,b3c3187d-18c6-4d52-8596-9c4f882f647a,Regular Issue,vol99
+jou100,16c9f9d4-bee1-435d-8c85-22a3deba109d,Physical Review Letters,vol100
+jou101,8ec18bc5-9c95-446c-a293-735d7ae1e3e9,Perspectives on Psychological Science,vol101
+jou102,70628d6a-97aa-4571-9701-bc0eb3989c32,IEEE Transactions on Geoscience and Remote Sensing,vol102
+jou103,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,vol103
+jou104,f80a2e54-1332-48bf-9634-4b2f77fca809,Data Intelligence,vol104
+jou105,d66cff25-03a5-432c-b3c8-fbdc87233070,Methods in Ecology and Evolution,vol105
+jou106,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,vol106
+jou107,36d2be9e-7824-4614-a901-dd808a6e2e49,Social Science Research,vol107
+jou108,58668f21-815a-4b30-af06-ced21bfb2fa6,Earth and Space Science,vol108
+jou109,96c1b36d-3833-4ec5-8806-48b8a93f901d,Scientometrics,vol109
+jou110,5218cd8f-e9a8-4825-8fcf-ffab8230c857,Public Understanding of Science,vol110
+jou111,9efb20cf-7484-450d-8245-12dfbf639d3e,Environmental Science and Technology,vol111
+jou112,de65147c-93c3-463a-a8b3-ecf04051fd1a,Astronomy & Astrophysics,vol112
+jou113,3418dc73-cff9-4be2-882e-5014f80264c1,Behavior Research Methods,vol113
+jou114,43d8ff46-e680-4c40-84dc-a8f86d3f559b,Cambridge International Law Journal,vol114
+jou115,3286b810-5251-4142-a03d-c7c20b90fd89,Clinical and Translational Science,vol115
+jou116,e739a034-cba8-40e0-acd3-6ee2a22c62e0,Earth-Science Reviews,vol116
+jou117,5e19119a-7591-4c54-8255-61a8db3575d5,Review of Economics and Statistics,vol117
+jou118,90b0ab9d-99a4-4572-b8e0-b404e618873d,International Journal of Exercise Science,vol118
+jou119,5ed9f470-65a3-4077-8dab-163b0c5cb9e6,Artificial Life,vol119
+jou120,43b3f0f9-489a-4566-8164-02fafde3cd98,Nature Communications,vol120
+jou121,17c57465-210d-4f43-a033-59d25938d6b6,American Journal of Political Science,vol121
+jou122,f9ed10b1-8312-414e-a948-49bbffb263bf,Ambio,vol122
+jou123,8e7d91d2-bc50-4bc6-8350-1bd4b4fdab9b,Medicine & Science in Sports & Exercise,vol123
+jou124,2115dc5e-9318-4ae7-b64c-0948fd079390,Environmental Reviews,vol124
+jou125,883c4931-50cd-44e1-a9cb-06b9f8a104a5,EMBO Reports,vol125
+jou126,b08588b2-9ba8-4469-a6d4-f0b88977b64f,Journal of Evidence-Based Medicine,vol126
+jou127,9eb2f5b8-afd8-467c-afe3-a65fd0a13773,Political Science Research and Methods,vol127
+jou128,171758eb-39e1-4665-a00d-dd65ec7d465e,Political Analysis,vol128
+jou129,07a1179a-6cc7-4fad-b1f1-783a66be9a1a,Conservation Biology,vol129
+jou130,19c7a16a-8ffe-45d4-863e-7e1cc8a78b4d,Statistical analysis and data mining,vol130
+jou131,7b19fb63-6e4e-4972-bd80-9e2b17941c95,Royal Society Open Science,vol131
+jou132,ee2dd599-75c3-4b69-b970-053972631b37,Big Data Research,vol132
+jou133,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,vol133
+jou134,63f2d4cb-31e9-465e-a09f-a48b034b7210,EURASIP Journal on Advances in Signal Processing,vol134
+jou135,142347a8-a3f6-4ce4-bc56-09bc8fc9461d,Frontiers in Medicine,vol135
+jou136,48dc0292-18d9-4ef1-ae2e-ee6b4a22dc0b,Publications of the Astronomical Society of the Pacific,vol136
+jou137,8eb13273-db4c-4017-8feb-5f48dc3260c7,Bulletin of The American Meteorological Society - (BAMS),vol137
+jou138,a1b87795-fe1f-4a43-bc4b-97b90f5bc75b,Sociological Methods & Research,vol138
+jou139,dc6419f3-98b3-4718-bba0-6b6d6c3d192b,JMIR Medical Informatics,vol139
+jou140,3687b41d-efd9-4e36-9cc1-0a6d6596b266,Applied Physics Reviews,vol140
+jou141,09a61721-0363-4426-9f33-3c4c8580b890,Sustainability Science,vol141
+jou142,2a815c92-821c-4932-b60c-7785ee69acb0,Annals of Data Science,vol142
+jou143,3567d187-af59-4171-97a3-abc4d6beb1bf,"Marketing science (Providence, R.I.)",vol143
+jou144,a990ee76-444c-4bda-b714-df4dad0efa5d,Psychology Science,vol144
+jou145,969f020f-55f8-4f57-9d3a-61542e237f8a,Immunologic research,vol145
+jou146,982ee153-9191-4993-89ff-b61eb14cdfcb,Astrophysical Journal Supplement Series,vol146
+jou147,f99f77b7-b1b6-44d3-984a-f288e9884b9b,Scientific Reports,vol147
+jou148,76ab3377-0a5b-4243-9b06-e2eede0f20de,Trends in Ecology & Evolution,vol148
+jou149,0a8df943-e5dc-4a57-b26f-ca35e4e09a97,SIAM Journal on Mathematics of Data Science,vol149
+jou150,1196488a-e9f3-43c5-84ae-d934dd84ccbf,Prevention Science,vol150
+jou151,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,vol151
+jou152,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,vol152
+jou153,0730105a-4941-449f-9450-28cba8ae056b,ACM Transactions on Software Engineering and Methodology,vol153
+jou154,25f60968-952b-484e-be36-50366f5e1d81,IEEE spectrum,vol154
+jou155,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,vol155
+jou156,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,vol156
+jou157,fe9174dc-ba90-4d03-929c-4edaf60d2a64,Requirements Engineering,vol157
+jou158,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,vol158
+jou159,d3812feb-d35c-4623-a0f3-7e921df9526f,Clinical engineering,vol159
+jou160,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,vol160
+jou161,f8c1288e-7248-48b1-9c43-c80bb91e8cad,Journal of Software Engineering Research and Development,vol161
+jou162,78ebe7c1-b88c-4801-9d98-700a1c791a61,"Software testing, verification & reliability",vol162
+jou163,22ec5dc2-bb5e-4fea-a7dd-61676b6e7f78,IEEE Annals of the History of Computing,vol163
+jou164,558a3215-8ffd-4b31-be7f-f653ca3b600d,PeerJ,vol164
+jou165,2135230a-3b24-4b71-9583-60624389377a,IEEE Transactions on Industrial Informatics,vol165
+jou166,3da56ce6-4a70-402c-a8b0-7dd39a3273d3,"Software, Practice & Experience",vol166
+jou167,592a2b9d-14a1-4476-8b68-1d3a2f209898,Advances in Software Engineering,vol167
+jou168,9e813668-7b2e-4506-9e7e-4a285f318e46,Springer US,vol168
+jou169,96018464-22dc-4b5c-a172-c2f4a30ce131,Artificial Intelligence,vol169
+jou170,fb4d95f0-46a7-4feb-b6fb-bffa7b98f19a,IET Software,vol170
+jou171,f6572f66-2623-4a5e-b0d9-4a5028dea98f,Computer,vol171
+jou172,bc2801b8-b059-4ee4-be9a-cd1943f45bf3,Information Systems,vol172
+jou173,73585779-8f95-43d4-be17-c74ed16aebd9,Journal of Software,vol173
+jou174,ec497fa8-833a-4d68-873a-539c20989c22,Advanced Engineering Informatics,vol174
+jou175,e0706bac-2807-4453-89b8-cc7094693384,Journal of the American Society for Information Science,vol175
+jou176,86b22730-8744-40a9-ae4d-d21830dfb282,Autonomous Agents and Multi-Agent Systems,vol176
+jou177,34d27e28-7f37-4875-ad8f-1018aced1e41,Systems Engineering,vol177
+jou178,0cf6c0df-2bbb-4620-96c5-0bf91ed94d7a,Journal of Software and Systems Modeling,vol178
+jou179,f0e4908d-92b1-4f6a-8f01-f81c78e75c2d,International Journal on Software Tools for Technology Transfer (STTT),vol179
+jou180,ed3076f2-967a-47c8-b60d-7bea15e28461,Software Engineering Journal,vol180
+jou181,b044d3cd-4725-4f77-b517-214706478060,Annals of Software Engineering,vol181
+jou182,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,vol182
+jou183,705a5f2b-aaf1-41fb-bc28-be78040b4587,Nature Protocols,vol183
+jou184,a7d48414-e40b-4441-829e-d9a349bea6fb,Journal of Molecular Biology,vol184
+jou185,1236e136-01b7-42d5-8c4a-593153a3ab37,Journal of Open Source Software,vol185
+jou186,9970f803-8311-476b-888b-3c3affe3aad0,Experimental and Molecular Medicine,vol186
+jou187,f44976b5-2cb9-402a-bc59-6a174239987b,Nature reviews genetics,vol187
+jou188,6457124b-39bf-4d02-bff4-73752ff21562,Nature Machine Intelligence,vol188
+jou189,4e516638-5c1d-4699-8d1b-3b48f0d48ddc,Protein Science,vol189
+jou190,8506a01a-40b8-4e6f-bbb8-ce2492139c15,International Journal of Molecular Sciences,vol190
+jou191,7fe84005-586f-4604-98ee-fa60fe8ae618,Journal of Clinical Medicine,vol191
+jou192,79c59592-820f-4ed1-87df-db795b4326be,Journal of medical systems,vol192
+jou193,278243c1-fe9f-46e8-bff7-cd9b9098bf2e,Briefings in Bioinformatics,vol193
+jou194,f5508b8f-47ff-42d2-9d7e-6296f3bb46a2,Journal of Molecular Cell Biology,vol194
+jou195,98dc4780-9354-4194-8b74-9cee4699ab66,SpringerPlus,vol195
+jou196,77d82a3b-88a9-4a01-b3f8-473032045c5d,Medicinal chemistry,vol196
+jou197,ae370fd3-0802-4915-aee5-5168c616747a,Current Bioinformatics,vol197
+jou198,8aa1809e-2afc-499d-b1eb-4f7d1dab5f28,BMC Microbiology,vol198
+jou199,3c8f4cec-a435-421a-b301-785e136e65e5,Journal of Infectious Diseases,vol199
+jou200,df12d289-f447-47d3-8846-75e39de3ab57,Neurocomputing,vol200
+jou201,3eceb08a-6b94-43fb-b3ba-1468f759573b,Analytical and Bioanalytical Chemistry,vol201
+jou202,f9827422-a381-440c-a8a4-e5e50415934e,Journal of Biomedical Informatics,vol202
+jou203,3445a712-bef4-4b80-b4f8-d527e01df714,Molecular Ecology Resources,vol203
+jou204,054ddb2c-47fb-4de8-acfd-38566bec5015,Methods,vol204
+jou205,ad63e55f-27c0-4ac0-9a28-01ed9d8ab0d5,Current Topics in Medicinal Chemistry,vol205
+jou206,678ce279-560b-4a6c-af55-ff68d5c2b544,Bioscience Reports,vol206
+jou207,c0047299-4a6a-4b3f-a6f6-e89a0ab88470,GigaScience,vol207
+jou208,59a6be0e-b047-4a97-a136-d94781c8adbd,Journal of B.U.ON. : official journal of the Balkan Union of Oncology,vol208
+jou209,b142707c-e6b5-427a-a6d4-313604e96add,Clinical Chemistry,vol209
+jou210,1b0a86a4-e46f-4b08-b95f-adb96a8deea4,Microbes and Environments,vol210
+jou211,cc4b2ffc-b9cd-40f9-8bf6-a11e389db4d5,"Genomics, Proteomics & Bioinformatics",vol211
+jou212,a6935d84-c149-452d-8d38-799076f769a9,Network Modeling Analysis in Health Informatics and Bioinformatics,vol212
+jou213,cdf4bb1c-e624-482e-8289-da2009c4c31a,Journal of Cellular Physiology,vol213
+jou214,38fdbaee-5a13-42a6-8bdf-b16b8f738b30,Current Protocols in Human Genetics,vol214
+jou215,d8fd7267-611b-4695-bc1e-77206e4dea5b,CBE - Life Sciences Education,vol215
+jou216,164cf9d6-c9e8-41f0-b15d-00fa34cb4bd1,Analytical Chemistry,vol216
+jou217,7758f686-2a47-473d-835c-6784e70a0aac,Nature Chemical Biology,vol217
+jou218,33a3a6f1-cd60-4248-bbd4-c85fe26b801a,Viruses,vol218
+jou219,7270e188-d479-4233-b457-1d07288baaef,Journal of chemical information and computer sciences,vol219
+jou220,f2ef2627-4ab1-43a8-a5c2-96f6d42b26ec,Influenza and Other Respiratory Viruses,vol220
+jou221,b51ebc17-99ea-48ba-9271-1074f526a9a1,Human Mutation,vol221
+jou222,fdeb07d1-a046-4a1a-98aa-167e7f8e667a,Frontiers in Oncology,vol222
+jou223,08ee3346-e195-4333-b008-be3a4f9e23cd,Biochimica et Biophysica Acta,vol223
+jou224,7c7081ff-cde3-49d7-aa8a-8f29ecc4f0a0,Biology Direct,vol224
+jou225,57307fe3-fa8c-47ec-9b5d-4bab7fd699fc,Infection and Immunity,vol225
+jou226,33f68909-043d-420c-b41b-00f6ee97db43,Journal of Inorganic Biochemistry,vol226
+jou227,f13c562f-8530-4cef-a857-00c4f2d8403d,Molecular & Cellular Proteomics,vol227
+jou228,e26133f2-2f02-4bc5-a3ad-26bdbdc9636c,Trends in Genetics,vol228
+jou229,795999c5-a1ee-4c35-a6c8-7901212c798c,Plant and Cell Physiology,vol229
+jou230,09246bed-4d95-4656-9c5b-5ce1b3074cb3,Plant Physiology,vol230
+jou231,4dbfe6f0-742b-4e3f-a64b-80278552db0d,Current Medicinal Chemistry,vol231
+jou232,2c469df0-fa01-4dee-8f25-0d87a6fc4ef1,Proteomics,vol232
+jou233,b01967aa-e4aa-4814-93ce-93daff8f618f,Methods of biochemical analysis,vol233
+jou234,a8009bad-664b-465f-9fc2-8656bc637bc4,Advances in Experimental Medicine and Biology,vol234
+jou235,35dfbad2-f0d5-49ac-9a05-f7da44efe120,Journal of Clinical Bioinformatics,vol235
+jou236,e4782337-db2d-4ab2-8eda-a71d1c60709b,Cell,vol236
+jou237,acdcc82c-368c-442a-92e8-0a2913177701,Nature Reviews Neurology,vol237
+jou238,8ef352ff-f009-488c-8669-83bbc68d651c,Journal of Computing Science and Engineering,vol238
+jou239,52bd1f2f-5bb2-4bae-8674-c503b506c30e,Molecular biology and evolution,vol239
+jou240,79ddd452-3c10-473b-9f28-5c7dd0dc4553,International Journal of Systematic and Evolutionary Microbiology,vol240
+jou241,c0efe552-8a0a-41a7-8ce2-340fb0dbfe6f,Science Signaling,vol241
+jou242,2a08a97b-5c21-4ec1-a0fa-82807c4a992a,Toxicological Sciences,vol242
+jou243,2e5b2b9d-b39f-4cf0-ae86-4c9ff4011524,Nature Reviews Microbiology,vol243
+jou244,bfbc3b25-7bac-49a0-b022-c89796c6c48c,Journal of Pharmacology and Pharmacotherapeutics,vol244
+jou245,5e1f6444-5d03-48c7-b202-7f47d492aeae,IEEE Transactions on Visualization and Computer Graphics,vol245
+jou246,95f5bdab-1f05-4090-899f-3869a15b5707,Methods of Information in Medicine,vol246
+jou247,7295ba21-341d-47f2-910c-7f2f0dcb7cb5,Molecular Ecology Notes,vol247
+jou248,2ac50919-507e-41c7-93a8-721c4b804757,IEEE Transactions on Neural Networks,vol248
+jou249,3f7605a7-7e53-4ff7-8895-42f09a5f4355,Frontiers in Immunology,vol249
+jou250,fb7027bc-56d9-4d79-98c4-47861dc42d0b,Annual Review of Plant Biology,vol250
+jou251,50dc9bd0-1c59-4773-8aaf-7fc39b21fe75,Journal of Antimicrobial Chemotherapy,vol251
+jou252,43b87a47-bd26-4b65-918f-f9bbd159ea77,Human Genetics,vol252
+jou253,a71ee771-e530-4f7b-ac2f-30bb96af027b,International Journal of Plant Genomics,vol253
+jou254,dc95b805-f39c-43dd-bf0f-500edd72da12,F1000Research,vol254
+jou255,fc27a8b5-9c12-424a-a71b-6f2c29bc17ec,Pharmacogenomics (London),vol255
+jou256,7c9d091e-015e-4e5d-a11f-9bc369fcf414,IEEE Transactions on Parallel and Distributed Systems,vol256
+jou257,38278c2e-2198-4d61-b807-f318d824b077,Electrophoresis,vol257
+jou258,dc4a9aad-72db-4530-a183-eaa4bf1d4490,IEEE/ACM Transactions on Computational Biology & Bioinformatics,vol258
+jou259,3a435ff9-d0c3-4eb9-9a89-992c0f8bf398,Genes,vol259
+jou260,a1eabcca-9d3f-45ac-bb78-c024734a2b68,Genome Medicine,vol260
+jou261,abda0c46-826f-441c-8920-70143ffcebc1,Biopolymers,vol261
+jou262,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,vol262
+jou263,99b00e0c-56b4-4079-91b7-0fa64b30b1ca,Gut,vol263
+jou264,7959fdab-81a2-4da4-8f2a-bd5855de5c6e,BMC Systems Biology,vol264
+jou265,1620da87-4387-4b9a-9bf4-22fdf74d4dc3,Symmetry,vol265
+jou266,992e3995-f295-4778-a913-3fe2f227da3f,Mathematical Gazette,vol266
+jou267,0f3cd77d-0863-4f0c-9246-ea8abb4a5680,Oberwolfach Reports,vol267
+jou268,2ca4279c-8ed7-4280-8022-09e577923a09,Frontiers in Neuroscience,vol268
+jou269,854badaf-06e4-4eae-851a-bfd5819f6ee7,Quality & Quantity: International Journal of Methodology,vol269
+jou270,c9c5c542-7b79-4541-b4d2-62ba2238733e,Frontiers in Bioengineering and Biotechnology,vol270
+jou271,5cdb2148-3b6f-4640-978f-6ba1f4f4028e,Biotechnology and Bioprocessing,vol271
+jou272,2633f5b2-c15c-49fe-80f5-07523e770c26,IEEE Access,vol272
+jou273,99191383-4095-456f-adc6-961e93a6a853,Dialogues in Clinical Neuroscience,vol273
+jou274,0be18492-3c25-4a50-846f-165b92b3fb83,Journal of manufacturing science and engineering,vol274
+jou275,7e036404-bf67-4f4e-98c7-687e5b81692e,Bulletin of the Australian Mathematical Society,vol275
+jou276,47ba6266-85d0-494a-a55a-927f8c599119,Engineering computations,vol276
+jou277,9a49f4eb-4bd6-467d-8202-b660e8d05e7e,The Neuroscientist,vol277
+jou278,a15f1020-494a-4b1b-be4a-29b72d37d7d5,Saudi Journal of Biological Sciences,vol278
+jou279,26e5254e-7228-4f34-b3da-e1d652124983,Journal of Neuroscience Research,vol279
+jou280,e46002a1-d7a6-4681-aae9-36bc3a6a1f93,Information Sciences,vol280
+jou281,07931092-9002-4e9f-a62d-00af30be540f,Frontiers in Psychiatry,vol281
+jou282,e92d0adf-ffa5-49b2-90bf-5dede4af11c5,Epilepsia,vol282
+jou283,b61ce141-a434-431b-a154-68fc26e348f3,Proceedings of the Royal Society A,vol283
+jou284,74b0478a-292c-4fe3-bb2f-71f438f00cc7,Nature Reviews Neuroscience,vol284
+jou285,1572e966-ab0e-46aa-a20d-77561de5d7ba,Neurobiology of Aging,vol285
+jou286,7e331686-6620-4481-a3d5-5effffe9ab83,Biomedical Optics Express,vol286
+jou287,677c9577-156b-4396-a0ea-3fa9d8038443,Research Synthesis Methods,vol287
+jou288,3b0987fd-daa6-4dd4-947c-4925c14712c0,BioData Mining,vol288
+jou289,f4a7a77b-3fc0-4bae-ac62-619688a2b341,Transactions of the American Mathematical Society,vol289
+jou290,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,vol290
+jou291,72c05908-68f2-4360-8c60-6e518d8edc3d,IEEE Transactions on Sustainable Energy,vol291
+jou292,bf2f9688-933d-44b9-9cd5-c738ddf60c56,Studies in Computational Intelligence,vol292
+jou293,8eabe4e5-3d91-4297-ab8f-475904598d30,BMC Neuroscience,vol293
+jou294,0bebd3b7-9bc2-4d76-9916-59f72f7a4d30,Genetic Epidemiology,vol294
+jou295,099a2ecc-54f9-42d3-9ea0-0189027aa04f,Journal of Biological Chemistry,vol295
+jou296,cb66f0d0-958c-4f1c-9758-86d4bfe89708,"Journal of Speech, Language and Hearing Research",vol296
+jou297,5e8c6a67-927f-4006-a14b-22f1eb7ec3d6,Current protein and peptide science,vol297
+jou298,2dfd9d00-649a-480f-9e1a-be3cbb8b5c83,Evolutionary Applications,vol298
+jou299,8baa4515-fac4-4b34-be0d-49385d586277,"Proteins: Structure, Function, and Bioinformatics",vol299
+jou300,03ee5102-bee1-4f48-8745-b97b885b6afd,Ecological Applications,vol300
+jou301,fd4c7628-c16e-4b50-8555-3ac3ad6da2d7,NeuroImage,vol301
+jou302,98ea9a6a-c9d7-4b4e-97ec-ee582bd62fa2,Electronic Journal of Combinatorics,vol302
+jou303,dd8a31c4-b5ed-47a4-9146-9e41b6ae9443,IET Systems Biology,vol303
+jou304,d7d15b42-f092-422f-8287-cb47ffe4a422,Journal of Graph Theory,vol304
+jou305,3efe0b58-b06e-42c1-8a30-01b13201c739,Landscape Ecology,vol305
+jou306,2f38f299-9909-4c8e-a12e-76fca8afb42e,Discrete Mathematics,vol306
+jou307,1a167e40-5fcf-4a0c-ad62-48a6c87707b7,Canadian Journal of Mathematics - Journal Canadien de Mathematiques,vol307
+jou308,89f81207-2335-4d39-8422-919955037191,Acta Crystallographica Section B Structural Science,vol308
+jou309,cc43107f-e671-4f87-99f5-ae12f9992c0d,Mathematical Systems Theory,vol309
+jou310,602bea1c-7ecb-43ec-a867-7666099e62c3,SIAM Journal on Discrete Mathematics,vol310
+jou311,f4f9e4d0-b477-46a6-bd60-07475fc3a0bd,Adaptive Behavior,vol311
+jou312,f09e3439-2129-47ae-81c3-42fac2e6bf5c,American Scientist,vol312
+jou313,8a32f160-84d2-4c72-b3ab-c5de11116574,Journal of combinatorial theory. Series A,vol313
+jou314,336446b6-e859-4f7b-9121-d2d40357fe0a,"IEEE Transactions on Systems, Man and Cybernetics",vol314
+jou315,369b7733-9b48-4432-85b6-1e3e41080d1b,Applied Mathematical Sciences,vol315
+jou316,f62e5eab-173a-4e0a-a963-ed8de9835d22,IEEE Signal Processing Magazine,vol316
+jou317,e6bfdcb4-2a51-40d0-bba8-df275f223711,The VLDB journal,vol317
+jou318,1ef13c1d-f8f6-481d-877b-5c802a40f8d5,Nonlinear Biomedical Physics,vol318
+jou319,f854e875-59c8-4001-a920-0670366ec189,Ecosphere,vol319
+jou320,f434f649-1188-4297-9bd8-58942db8a135,Journal of Applied and Computational Topology,vol320
+jou321,63f7ec25-0bc0-46cf-b5c3-908c2e9ee9da,Biology,vol321
+jou322,1283a59c-0d1f-48c3-81d7-02172f597e70,IEEE Transactions on Automatic Control,vol322
+jou323,c7be0e82-620f-44c5-b6de-46310d59c7b8,IEEE Control Systems,vol323
+jou324,de34e080-a004-422c-b361-3ac450406f66,Multiscale Modeling & simulation,vol324
+jou325,a0159c98-eac8-484a-856f-91ad681adf96,IEEE Transactions on Systems Science and Cybernetics,vol325
+jou326,f6537e0e-c3a9-4de5-bd36-19eda0434065,Journal of the Royal Society Interface,vol326
+jou327,859022e2-49ca-45d4-8e43-0fa45d44e934,Annual Review of Clinical Psychology,vol327
+jou328,748e730b-add9-47ee-819d-8ae54e504ef9,IEEE Transactions on Information Theory,vol328
+jou329,48bfb57a-bc20-4264-8899-7605c9e28d63,Neuroinformatics,vol329
+jou330,31504b24-0c4f-400c-b427-1428893025ff,Journal of Statistical Software,vol330
+jou331,65967e36-f7db-476f-9d00-fd080a5a8483,IEEE Transactions on Circuits and Systems Part 1: Regular Papers,vol331
+jou332,4e46790b-e240-4236-9b8d-a70ed74f900a,IEEE Transactions on Mobile Computing,vol332
+jou333,f06e7ee6-cd20-45a8-91f9-6c84bcddc5fd,Optics Express,vol333
+jou334,0e3b51a7-21d8-477c-8918-14a55f087532,SIAM Journal on Scientific Computing,vol334
+jou335,4f96108e-f62c-48be-a31a-b3d1ad831330,Internet Mathematics,vol335
+jou336,f585b638-9311-4c6b-b910-0c90ccc2ee66,Journal of Computational Neuroscience,vol336
+jou337,d64970b5-c111-42a8-aef4-66705a3b73dd,SIAM Journal of Control and Optimization,vol337
+jou338,39b8b5dc-1ca2-4d60-9973-fb023d4d6c4c,Mathematics of Operations Research,vol338
+jou339,ebb34bf6-eb0a-4d70-81fc-53360c4c20b3,Cell Systems,vol339
+jou340,e66d27b6-cdf4-44e9-9420-52fe00567139,The International Journal of Life Cycle Assessment,vol340
+jou341,d10bf495-9155-454f-be8e-490180513492,Mobile DNA,vol341
+jou342,643a31e6-3016-4604-beca-0edfc0e2a834,Applied and Environmental Microbiology,vol342
+jou343,fbdeb2fb-ac8a-49ee-a405-19f76371141b,IEEE Engineering in Medicine and Biology Magazine,vol343
+jou344,fd4675fe-4136-446c-aefd-3658aae698ac,Journal of Cheminformatics,vol344
+jou345,a88e2a6c-903f-42e1-8dfc-f2547e32020a,IEEE Transactions on Affective Computing,vol345
+jou346,939ee07c-6009-43f8-b884-69238b40659e,International Journal of Computer Vision,vol346
+jou347,3f16aef5-6b9f-4f87-baca-cbf8147e352f,Journal of Chemical Information and Modeling,vol347
+jou348,6fdeda46-9d42-4591-a065-6d21c4986a89,Cytogenetic and Genome Research,vol348
+jou349,7dda5bd1-752f-45e5-bc7b-09633096916e,Language Resources and Evaluation,vol349
+jou350,9d1e9467-890b-44c6-92c4-5d604973af84,Journal of Biomolecular NMR,vol350
+jou351,6cc36eeb-d056-42c4-a306-7bcb239cc442,Image and Vision Computing,vol351
+jou352,8dcbaea5-3cdb-48b3-9f93-45c12ca1bb91,BMC Genomics,vol352
+jou353,5e329303-0790-4991-832f-dd8a737ec6fb,Signal processing. Image communication,vol353
+jou354,7bcfec9d-4ece-43ad-8a9f-b653e1b3ec4e,Systematic Reviews,vol354
+jou355,4e90b61b-3ae1-4b4c-9348-d67a3825e703,Medical Physics (Lancaster),vol355
+jou356,4927fc60-c4fd-4482-a987-8ce831e407cc,JAMA Oncology,vol356
+jou357,137f4fd6-2e4e-486f-9046-1e37e4301c91,Immunogenetics,vol357
+jou358,c999d5bf-6e3d-40df-a5a0-d32a59714a2d,RNA: A publication of the RNA Society,vol358
+jou359,7a0fa873-9493-466e-aaf2-2eeb6a4d41f2,Antimicrobial Agents and Chemotherapy,vol359
+jou360,b5aaa937-18c7-4a65-84a1-52713f6080fe,Global Change Biology,vol360
+jou361,aabd4314-5af1-4ee4-af7e-a012aade1650,Bulletin of Earthquake Engineering,vol361
+jou362,c68dc5a1-06e8-4c33-a6bd-1cbf7d2c7ff5,Biocontrol News and Information,vol362
+jou363,956bc149-0711-4d69-bb43-d462859b6f1d,Therapeutic Drug Monitoring,vol363
+jou364,aab03e41-f80d-48b3-89bd-60eeeceafc7d,ACM Transactions on Graphics,vol364
+jou365,4e6d067b-67a9-4c4c-886f-9ae510c6df38,Accounts of Chemical Research,vol365
+jou366,aaf4c77b-c663-4009-862d-da25e19dfed2,Journal of Human Genetics,vol366
+jou367,0f9e8bfc-fdfb-402f-bb26-c23177ec102a,Pharmacoepidemiology and Drug Safety,vol367
+jou368,46722266-4327-4a22-871d-5a9fe3c5ad0c,International Journal on Document Analysis and Recognition,vol368
+jou369,122c0867-01c1-4ac7-b8a5-998cc5a278e2,Academic Radiology,vol369
+jou370,39fbefa9-1bb7-44ef-ab6a-18458e77cb8f,Novartis Foundation symposium,vol370
+jou371,b482a99f-ef53-4694-aec6-32ad78e0d716,BMC Cancer,vol371
+jou372,3010f82b-3d11-40b5-ab28-f956fb2c4cc6,"Behavoir research methods, instruments & computers",vol372
+jou373,e35a87a3-a6c4-47bf-acca-3e615ddb9c58,ACM Transactions on Database Systems,vol373
+jou374,a7abfa95-0b9f-4416-9cd2-3271591663d2,British Journal of Cancer,vol374
+jou375,d148a331-a75b-4289-81bd-0686aab60bdc,Journal of Applied Crystallography,vol375
+jou376,b5b6ba6d-5b59-4229-9b9d-6e8b87e8e857,Springer Netherlands,vol376
+jou377,477368e9-7a8e-475a-8c93-6d623797fd06,Multimedia tools and applications,vol377
+jou378,dc31f077-7737-4e33-baa3-bceeff44ec27,New England Journal of Medicine,vol378
+jou379,3b9c2af9-8503-4d14-a0de-af5ba0143ed2,PLoS Medicine,vol379
+jou380,1e7039c8-e30c-4af0-b7d3-f5e05dff5d21,Methods in Enzymology,vol380
+jou381,4cce60a8-2106-4240-bece-fb6488df6bd1,Journal of Medicinal Chemistry,vol381
+jou382,2018b690-8eab-42c2-8397-9d67983f7a69,Biophysical Journal,vol382
+jou383,d29d1bb6-4b95-4ab8-b0f7-18b109ee7d07,Environmental Health,vol383
+jou384,47464297-4c88-44d5-9112-53a865e99be5,Applied Optics,vol384
